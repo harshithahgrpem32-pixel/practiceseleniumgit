@@ -8,6 +8,7 @@ public class sampleTest {
 	{
 		System.out.println("done");
 		System.out.println("all done");
+		System.out.println("ok");
 	}
 
 }
