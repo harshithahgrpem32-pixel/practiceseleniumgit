@@ -11,6 +11,7 @@ public class sampleTest {
 		System.out.println("ok");
 		System.out.println("all done");
 		System.out.println("ok");
+		System.out.println("yes");
 	}
 
 }
