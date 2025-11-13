@@ -3,7 +3,7 @@ package moduleA;
 import org.testng.annotations.Test;
 
 public class sampleTest {
-	@Test
+	@Test(groups = "ST")
 	public void demoTest()
 	{
 		System.out.println("done");
@@ -11,6 +11,12 @@ public class sampleTest {
 		System.out.println("ok");
 		System.out.println("all done");
 		System.out.println("done");
+		System.out.println("done");
+	}
+	
+	@Test
+	public void growTest()
+	{
 		System.out.println("done");
 	}
 
